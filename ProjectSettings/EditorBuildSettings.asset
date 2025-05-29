@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 517c399802524df4fa1ef0725cad0948
+  - enabled: 1
+    path: Assets/Scenes/Location 1.unity
+    guid: 007bbec2871518d46b741a480404580f
+  - enabled: 1
+    path: Assets/Scenes/Location 2.unity
+    guid: 47bf674219df8fd4a930d874e8e11ac2
+  - enabled: 0
+    path: 
+    guid: 9ddd44e9feae20745b9ed0164fbecfc2
+  - enabled: 1
+    path: Assets/Scenes/GoodDeath.unity
+    guid: bd3e811d25c1b3641bb7986f2366c608
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a60e6f91eaf209241ad1097f4dc9355a, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 1071290429436e045a556c95ad30a8eb, type: 2}
